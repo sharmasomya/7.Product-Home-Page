@@ -10,7 +10,7 @@
 - **_Fully Responsive_**
 
 ## Completion Time
-Around 6 Hours
+- Around 6 Hours
 
 ## Live Preview
 - [Deployed Link](https://astounding-tarsier-1c04eb.netlify.app/)
